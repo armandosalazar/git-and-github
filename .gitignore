@@ -4,4 +4,4 @@ PRIVATE.txt
 # Ignore files in output
 output/
 # Except result.exe
-!output/result.exe   
+!output/result.exe
